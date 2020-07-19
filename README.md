@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="450" src="./assets/mila.jpg">
-</p>
-
 <h3 align="center">👋 Hi! I'm Yadu</h3>
 <p align="center">
   <a href="https://yduman.github.io">Website</a> •
@@ -11,7 +7,7 @@
 
 ---
 
-I'm a full-stack engineer based in Germany. I love programming, a good coffee and collect dozens of mechanical keyboards. I work with a variety of technologies, but recently trying to stick with TypeScript. Besides my studies, I develop cool things [@MaibornWolff](https://www.maibornwolff.de/), a lovely company with great people! The cat above is my cute Mila ❤️ 
+I'm a full-stack engineer based in Germany. I love programming, a good coffee and collect dozens of mechanical keyboards. I work with a variety of technologies, but recently trying to stick with TypeScript. Besides my studies, I develop cool things [@MaibornWolff](https://www.maibornwolff.de/), a lovely company with great people!
 
 
 - 👨‍💻 I’m currently working on [Retro](http://www.github.com/yduman/retro), a tool for remote retrospectives
