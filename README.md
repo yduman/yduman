@@ -14,7 +14,3 @@ I'm a full-stack engineer based in Germany. I love programming, a good coffee an
 - 🌱 I’m currently learning functional architecture patterns in JavaScript
 - 📫 How to reach me: [@proxyduman](https://twitter.com/proxyduman)
 - ⚡ Fun fact: I didn't know that computer science exists until I finished high school
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yduman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</p>
