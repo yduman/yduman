@@ -3,7 +3,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/yadullah-duman-601594137/" title="Website">
-      <img width="22" src="./assets/website.png">&nbsp;Website
+      <img width="22" src="./assets/octocat.svg">&nbsp;Website
     </a>
   </code>
   &nbsp;
