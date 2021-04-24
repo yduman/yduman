@@ -3,15 +3,17 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/yadullah-duman-601594137/" title="Website">
-      <img width="22" src="https://github.com/yduman/yduman/blob/master/assets/website.png">&nbsp;Website
+      <img width="22" src="./assets/website.png">&nbsp;Website
     </a>
   </code>
+  &nbsp;
   <code>
-    <a href="https://twitter.com/proxyduman" title="Twitter Profile"><img width="22" src="https://github.com/yduman/yduman/blob/master/assets/twitter.svg">&nbsp;Twitter</a>
+    <a href="https://twitter.com/proxyduman" title="Twitter Profile"><img width="22" src="./assets/twitter.svg">&nbsp;Twitter</a>
   </code>
+  &nbsp;
   <code>
     <a href="https://www.linkedin.com/in/yadullah-duman-601594137/" title="LinkedIn Profile">
-      <img width="22" src="https://github.com/yduman/yduman/blob/master/assets/linkedin.svg">&nbsp;LinkedIn
+      <img width="22" src="./assets/linkedin.svg">&nbsp;LinkedIn
     </a>
   </code>
 </h5>
