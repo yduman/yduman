@@ -16,5 +16,3 @@ I'm a full-stack engineer based in Germany. I love programming, a good coffee an
 [![Yadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yduman&count_private=true&show_icons=true&theme=dracula)](https://github.com/yduman)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yduman&layout=compact&theme=dracula)](https://github.com/yduman)
-
-> Most Used Languages doesn't indicate my skill level or familarity, it's just a GitHub metric of which languages I have the most code on GitHub
