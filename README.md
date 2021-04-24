@@ -3,12 +3,12 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/yadullah-duman-601594137/" title="Website">
-      <img width="22" src="./assets/octocat.svg">&nbsp;Website
+      <img width="22" src="./assets/github.svg">&nbsp;Website
     </a>
   </code>
   &nbsp;
   <code>
-    <a href="https://twitter.com/proxyduman" title="Twitter Profile"><img width="22" src="./assets/twitter.svg">&nbsp;Twitter</a>
+    <a href="https://twitter.com/proxyduman" title="Twitter Profile"><img width="22" src="./assets/twitter2.png">&nbsp;Twitter</a>
   </code>
   &nbsp;
   <code>
