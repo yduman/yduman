@@ -1,9 +1,12 @@
-<h3 align="center">👋 &nbsp; Hi, I'm Yadu!</h3>
-
+<h3 align="center">
+  <img src="./assets/Hi.gif" width="30px">
+  Hi, I'm Yadu!
+</h3>
+<br/>
 <p align="center">
-  <a href="https://yduman.github.io">Website</a> •
-  <a href="https://twitter.com/proxyduman">Twitter</a> •
-  <a href="https://www.linkedin.com/in/yadullah-duman-601594137/">LinkedIn</a>
+  <a href="https://yduman.github.io/blog"><img src="https://img.shields.io/badge/-My%20Blog-109E8A?style=for-the-badge&logo=Gatsby&logoColor=ffffff"/></a>
+  <a href="https://twitter.com/proxyduman"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=ffffff" /></a>
+  <a href="https://www.linkedin.com/in/yadullah-duman-601594137/"><img src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=Linkedin&logoColor=ffffff" /></a>
 </p>
 
 ---
